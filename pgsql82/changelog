@@ -1,0 +1,6 @@
+iplike-pgsql82 (1.0.5-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Jeff Gehlbach <jeffg@opennms.org>  Sat, 23 Jun 2007 14:41:05 -0400
+
