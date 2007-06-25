@@ -8,8 +8,8 @@ Standards-Version: 3.7.2
 Package: iplike-pgsql81
 Architecture: any
 Depends: postgresql-8.1, ${shlibs:Depends}, ${misc:Depends}
-Conflicts: opennms-iplike
-Replaces: opennms-iplike
+Conflicts: libiplike-pgsql
+Replaces: libiplike-pgsql
 Description: PostgreSQL complex IP Address text field query
  PostgreSQL function for doing complex IP address queries
  on a text field.
