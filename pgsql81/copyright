@@ -1,0 +1,22 @@
+This package was debianized by Jeff Gehlbach <jeffg@opennms.org> on
+Sat, 23 Jun 2007 14:41:05 -0400.
+
+It was downloaded from <fill in http/ftp site>
+
+Upstream Author: <put author(s) name and email here>
+
+Copyright: <put the year(s) of the copyright, and the names of the
+            copyright holder(s) here>
+
+License:
+
+<Put the license of the package here>
+
+
+The Debian packaging is (C) 2007, Jeff Gehlbach <jeffg@opennms.org> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
+
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.
+

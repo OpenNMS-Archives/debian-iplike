@@ -1,0 +1,15 @@
+Source: iplike-pgsql74
+Section: unknown
+Priority: extra
+Maintainer: Jeff Gehlbach <jeffg@opennms.org>
+Build-Depends: @cdbs@, postgresql-server-dev-7.4
+Standards-Version: 3.7.2
+
+Package: iplike-pgsql74
+Architecture: any
+Depends: postgresql-7.4, ${shlibs:Depends}, ${misc:Depends}
+Conflicts: opennms-iplike
+Replaces: opennms-iplike
+Description: PostgreSQL complex IP Address text field query
+ PostgreSQL function for doing complex IP address queries
+ on a text field.

@@ -1,0 +1,6 @@
+iplike-pgsql74 (1.0.5-1) unstable; urgency=low
+
+  * Initial release as separately versioned package
+
+ -- Jeff Gehlbach <jeffg@opennms.org>  Sat, 23 Jun 2007 14:41:05 -0400
+
