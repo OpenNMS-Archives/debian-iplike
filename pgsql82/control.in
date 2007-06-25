@@ -1,5 +1,5 @@
 Source: iplike-pgsql82
-Section: unknown
+Section: contrib/net
 Priority: extra
 Maintainer: Jeff Gehlbach <jeffg@opennms.org>
 Build-Depends: @cdbs@, postgresql-server-dev-8.2
