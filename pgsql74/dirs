@@ -1,2 +1,3 @@
-usr/bin
 usr/sbin
+usr/lib/postgresql/7.4/lib
+usr/share/doc/iplike-pgsql74
