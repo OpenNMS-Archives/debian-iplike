@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: iplike-pgsql82
 Architecture: any
-Depends: postgresql-8.2, ${shlibs:Depends}, ${misc:Depends}
+Depends: postgresql-8.2, libc6(>= 2.5), ${misc:Depends}
 Conflicts: libiplike-pgsql
 Replaces: libiplike-pgsql
 Description: PostgreSQL complex IP Address text field query
