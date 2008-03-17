@@ -4,12 +4,13 @@ DEB_TAR_SRCDIR := iplike-1.0.7
 PGSQL_TYPE := 74
 
 include /usr/share/cdbs/1/rules/tarball.mk
-#include /usr/share/cdbs/1/rules/simple-patchsys.mk
+include /usr/share/cdbs/1/rules/simple-patchsys.mk
 include /usr/share/cdbs/1/class/autotools.mk
 include /usr/share/cdbs/1/rules/debhelper.mk
 
 DEB_CONFIGURE_EXTRA_FLAGS := --libdir=/usr/lib/postgresql/7.4/lib
 
+PATH := /usr/lib/postgresql/7.4/bin:$(PATH)
 
 CFLAGS = -Wall -g
 
