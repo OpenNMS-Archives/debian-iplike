@@ -1,3 +1,9 @@
+iplike-pgsql74 (1.0.7-1) unstable; urgency=low
+
+  * Updated to 1.0.7
+
+ -- Benjamin Reed <ranger@opennms.org>  Sun, 16 Mar 2007 12:01:00 -0500
+
 iplike-pgsql74 (1.0.5-1) unstable; urgency=low
 
   * Initial release as separately versioned package
